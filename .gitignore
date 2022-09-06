@@ -4,3 +4,4 @@ out/
 packages/
 xcuserdata
 .vscode
+_compile/theos/
