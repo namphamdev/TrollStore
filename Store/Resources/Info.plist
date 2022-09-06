@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleExecutable</key>
-	<string>TrollStore</string>
+	<string>NPStore</string>
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundlePrimaryIcon</key>
